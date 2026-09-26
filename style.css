@@ -36,3 +36,17 @@
   
   
 }
+
+
+.title{
+  width: 1000px;
+  height: 1000px;
+  border: dotted black;
+  
+}
+
+
+body{
+  font-family: times new roman;
+
+}
